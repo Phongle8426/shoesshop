@@ -1,0 +1,84 @@
+{
+   "products": [
+     {
+        "id": '1',
+        "name": 'Nike Air Max 97',
+        "price": 190.00,
+        "isliked": false,
+        "image": 'assets/small_tilt_shoe_2.png',
+        "category": "Trending Now"
+     },
+     {
+        "id": '2',
+        "name": 'Nike Air Max 97',
+        "price": 190.00,
+        "isliked": false,
+        "image": 'assets/small_tilt_shoe_2.png',
+        "category": "Trending Now"
+     },
+         {
+        "id": '3',
+        "name": 'Nike Air Max 97',
+        "price": 190.00,
+        "isliked": false,
+        "image": 'assets/small_tilt_shoe_2.png',
+        "category": "Trending Now"
+     },
+         {
+        "id": '4',
+        "name": 'Nike Air Max 97',
+        "price": 190.00,
+        "isliked": false,
+        "image": 'assets/small_tilt_shoe_2.png',
+        "category": "Trending Now"
+     },
+         {
+        "id": '5',
+        "name": 'Nike Air Max 97',
+        "price": 190.00,
+        "isliked": false,
+        "image": 'assets/small_tilt_shoe_2.png',
+        "category": "Trending Now"
+     },
+      {
+        "id": '6',
+        "name": 'Nike Air Max 97',
+        "price": 190.00,
+        "isliked": false,
+        "image": 'assets/small_tilt_shoe_2.png',
+        "category": "Trending Now"
+     },
+     {
+        "id": '7',
+        "name": 'Nike Air Max 97',
+        "price": 190.00,
+        "isliked": false,
+        "image": 'assets/small_tilt_shoe_2.png',
+        "category": "Trending Now"
+     },
+         {
+        "id": '8',
+        "name": 'Nike Air Max 97',
+        "price": 190.00,
+        "isliked": false,
+        "image": 'assets/small_tilt_shoe_2.png',
+        "category": "Trending Now"
+     },
+         {
+        "id": '9',
+        "name": 'Nike Air Max 97',
+        "price": 190.00,
+        "isliked": false,
+        "image": 'assets/small_tilt_shoe_2.png',
+        "category": "Trending Now"
+     },
+         {
+        "id": '10',
+        "name": 'Nike Air Max 97',
+        "price": 190.00,
+        "isliked": false,
+        "image": 'assets/small_tilt_shoe_2.png',
+        "category": "Trending Now"
+     }
+   ]
+}
