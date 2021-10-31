@@ -3,7 +3,7 @@
     {
         "id": "1",
         "name": "Jordan 3 Retro",
-        "price": 202.0,
+        "price": 202.00,
         "isliked": false,
         "image": "https://i.imgur.com/5iZuN9e.png",
         "category": "Trending Now",
@@ -12,7 +12,7 @@
         {
         "id": "2",
         "name": "Jordan 1 Retro High",
-        "price": 161.0,
+        "price": 161.00,
         "image": "https://i.imgur.com/5iZuN9e.png",
         "category": "Trending Now",
         "description": "In a simple two-tone format, the upper of the Air Jordan 1 High Pollen is constructed of black tumbled leather with Pollen Yellow overlays and Swooshes. Matching woven tongue tags and a Jordan Wings logo on the collar add authentic 1980s detailing"
@@ -20,7 +20,7 @@
             {
         "id": "3",
         "name": "Nike Dunk High",
-        "price": 104.0,
+        "price": 104.00,
         "image": "https://i.imgur.com/5iZuN9e.png",
         "category": "Trending Now",
         "description": "Also known as the Nike Dunk High Villanova, the Nike Dunk High Championship Navy displays classic color-blocking with a white leather upper and Championship Navy overlays. From there, a matching woven tongue label and sole complete the retro design."
@@ -28,7 +28,7 @@
         {
         "id": "4",
         "name": "Jordan 3 Retro",
-        "price": 202.0,
+        "price": 202.00,
         "image": "https://i.imgur.com/5iZuN9e.png",
         "category": "Trending Now",
         "description": "The Air Jordan 3 Pine Green features a black Durabuck upper with signature elephant print overlays and green perforated collars. Hits of Pine Green on the midsole and Jumpman tongue embroidery stand out against their neutral backdrops. From there, a Jumpman heel tab and Air sole adds the finishing touches to this retro design."
@@ -36,7 +36,7 @@
         {
         "id": "5",
         "name": "Jordan 1 Retro High",
-        "price": 161.0,
+        "price": 161.00,
         "image": "https://i.imgur.com/5iZuN9e.png",
         "category": "Trending Now",
         "description": "In a simple two-tone format, the upper of the Air Jordan 1 High Pollen is constructed of black tumbled leather with Pollen Yellow overlays and Swooshes. Matching woven tongue tags and a Jordan Wings logo on the collar add authentic 1980s detailing"
@@ -44,7 +44,7 @@
             {
         "id": "6",
         "name": "Nike Dunk High",
-        "price": 104.0,
+        "price": 104.00,
         "image": "https://i.imgur.com/5iZuN9e.png",
         "category": "Trending Now",
         "description": "Also known as the Nike Dunk High Villanova, the Nike Dunk High Championship Navy displays classic color-blocking with a white leather upper and Championship Navy overlays. From there, a matching woven tongue label and sole complete the retro design."
@@ -52,7 +52,7 @@
        {
         "id": "7",
         "name": "Jordan 3 Retro",
-        "price": 202.0,
+        "price": 202.00,
         "image": "https://i.imgur.com/5iZuN9e.png",
         "category": "Trending Now",
         "description": "The Air Jordan 3 Pine Green features a black Durabuck upper with signature elephant print overlays and green perforated collars. Hits of Pine Green on the midsole and Jumpman tongue embroidery stand out against their neutral backdrops. From there, a Jumpman heel tab and Air sole adds the finishing touches to this retro design."
@@ -60,7 +60,7 @@
         {
         "id": "8",
         "name": "Jordan 1 Retro High",
-        "price": 161.0,
+        "price": 161.00,
         "image": "https://i.imgur.com/5iZuN9e.png",
         "category": "Trending Now",
         "description": "In a simple two-tone format, the upper of the Air Jordan 1 High Pollen is constructed of black tumbled leather with Pollen Yellow overlays and Swooshes. Matching woven tongue tags and a Jordan Wings logo on the collar add authentic 1980s detailing"
@@ -68,7 +68,7 @@
             {
         "id": "9",
         "name": "Nike Dunk High",
-        "price": 104.0,
+        "price": 104.00,
         "image": "https://i.imgur.com/5iZuN9e.png",
         "category": "Trending Now",
         "description": "Also known as the Nike Dunk High Villanova, the Nike Dunk High Championship Navy displays classic color-blocking with a white leather upper and Championship Navy overlays. From there, a matching woven tongue label and sole complete the retro design."
